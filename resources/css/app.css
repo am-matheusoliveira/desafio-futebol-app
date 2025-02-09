@@ -1,0 +1,12 @@
+/* IMPORTANDO FONTE DO GOOGLE */
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* DEFININDO FONTE GLOBAL */
+* {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+}

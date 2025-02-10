@@ -169,6 +169,7 @@ Abaixo, segue uma imagem com um aviso da API sobre essas limitações:
 
 ## Não conseguiu rodar o projeto? 
 <b>Se, após a execução de todas as etapas anteriores, você ainda não conseguir rodar este projeto, não se preocupe! Você ainda pode acessá-lo e testá-lo através do deploy de produção. Acesse o link deste projeto, que está rodando no AWS EC2: [Deploy do Projeto no EC2](https://tinyurl.com/desafio-futebol-app)</b>
+
 ---
 ### Referências
 

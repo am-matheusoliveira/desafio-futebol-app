@@ -122,39 +122,39 @@ Para ilustrar melhor o funcionamento do sistema, abaixo estão algumas telas da 
 
 ### 1. Página inicial da Aplicação:
 
-![login-usuario](https://github.com/user-attachments/assets/8ae6d512-a82a-43a6-83ad-a10bdf4bc98c)
+![01-IMG-HOME-SISTEMA](https://github.com/user-attachments/assets/e2bd97ce-eb5f-4653-8c9a-eeda1e53caa9)
 
 ### 2. Tela de Login da Aplicação:
 
-![login-usuario](https://github.com/user-attachments/assets/8ae6d512-a82a-43a6-83ad-a10bdf4bc98c)
+![02-IMG-LOGIN](https://github.com/user-attachments/assets/48df4a0b-7922-4402-bd56-c00f04025abd)
 
 ### 3. Tela de Cadastro de novos Usuário da Aplicação:
 
-![novo-usuario](https://github.com/user-attachments/assets/7a2740df-9b62-4cfe-8d7b-5e43918d46fc)
+![03-IMG-NOVO-USUARIO](https://github.com/user-attachments/assets/880b9549-d116-4fb0-9a88-5ca004fa050c)
 
 ### 4. Dashboard da Aplicação:
 
-![sistema-dashboard](https://github.com/user-attachments/assets/a1405638-a409-44e7-bda0-e47f556eadc3)
+![10-IMG-DASHBOARD-SISTEMA](https://github.com/user-attachments/assets/1ed3edd0-6d29-437b-a653-4818f385c80d)
 
 ### 5. Campeonatos:
 
-![sistema-dashboard](https://github.com/user-attachments/assets/a1405638-a409-44e7-bda0-e47f556eadc3)
+![04-IMG-CAMPEONATOS](https://github.com/user-attachments/assets/a89e1ed8-e3a3-4963-91d6-258ace83c9c7)
 
 ### 6. Jogos do Campeonato:
 
-![sistema-dashboard](https://github.com/user-attachments/assets/a1405638-a409-44e7-bda0-e47f556eadc3)
+![05-IMG-JOGOS-CAMPEONATOS](https://github.com/user-attachments/assets/4d0df645-a240-4807-b452-055479a0ba8b)
 
 ### 7. Resultado do Campeonato(Jogos que aconteceram):
 
-![sistema-dashboard](https://github.com/user-attachments/assets/a1405638-a409-44e7-bda0-e47f556eadc3)
+![06-IMG-RESULTADO-CAMPEONATO](https://github.com/user-attachments/assets/f67d7024-c712-42c1-95d9-5dc290850c9f)
 
 ### 8. Buscar Time Especifico:
 
-![sistema-dashboard](https://github.com/user-attachments/assets/a1405638-a409-44e7-bda0-e47f556eadc3)
+![07-IMG-BUSCAR-TIME](https://github.com/user-attachments/assets/b3235bb0-d48b-486d-b5e8-f3aae51b25f0)
 
 ### 9. Jogos do Time Selecionado:
 
-![sistema-dashboard](https://github.com/user-attachments/assets/a1405638-a409-44e7-bda0-e47f556eadc3)
+![08-IMG-JOGOS-TIME](https://github.com/user-attachments/assets/bddd268a-1f4d-4d67-8a1b-ccccd019257d)
 
 ## ⚠️ Disclaimer
 

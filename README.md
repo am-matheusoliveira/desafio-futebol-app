@@ -8,7 +8,7 @@ Este projeto é um sistema desenvolvido em **Laravel, PHP 8.2, MySQL 8 e Tailwin
 Este projeto está hospedado no serviço EC2 da AWS. Você pode acessá-lo e testá-lo agora mesmo clicando no link: [Deploy do Projeto no EC2](https://tinyurl.com/desafio-futebol-app)
 
 ## Funcionalidades desta Aplicação
-Todas as funcionalidades exigidas no **enunciado** foram desenvolvidas, inclusive aproveitei para implementar novas funcionalidades, ou **funcionalidades bônus.** Abaixo seguem as principais funcionalidades deste projeto:
+Todas as funcionalidades exigidas no **enunciado** foram implementadas com sucesso. Além disso, aproveitei a oportunidade para adicionar novas funcionalidades e aprimoramentos extras. Abaixo seguem as principais funcionalidades deste projeto:
 
 ### 🎯 Principais Funcionalidades
 
@@ -31,8 +31,14 @@ Todas as funcionalidades exigidas no **enunciado** foram desenvolvidas, inclusiv
 4. **Busca por um Time Específico**
 
    - Permite pesquisar um time pelo nome e visualizar:
-     - Próximos jogos
+     - Detalhes do time pesquisado
      - Últimos resultados
+
+5. **Login e Registro de Novos Usuários**
+
+   - Permite que novos usuários se cadastrem e acessem o sistema:
+     - Realizar login com credenciais cadastradas
+     - Criar uma nova conta de usuário
 
 ## 🚀 Tecnologias Utilizadas
 - **Linguagem PHP v8**

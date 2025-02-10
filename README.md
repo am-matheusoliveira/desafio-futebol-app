@@ -39,7 +39,7 @@ Todas as funcionalidades exigidas no **enunciado** foram desenvolvidas, inclusiv
 - **Laravel Framework** (Última versão)
 - **Laravel Breeze** (Scaffold completo para as telas de usuário, login, register, etc.)
 - **MySQL v8**
-- **Tailwind CSS**
+- **Tailwind CSS v4**
 - **API-Football** (Integração para dados esportivos)
 
 ## 📥 Instalação
@@ -110,9 +110,51 @@ Todas as funcionalidades exigidas no **enunciado** foram desenvolvidas, inclusiv
     npm run build
     ```   
 
+10. **Acesse o projeto no navegador:**
+   
+    Após executar todas as etapas acima, o sistema estará disponível em:
+   
+    **[http://127.0.0.1:8000](http://127.0.0.1:8000)**
+
 ## 🖼️ Imagens da Aplicação
 
 Para ilustrar melhor o funcionamento do sistema, abaixo estão algumas telas da aplicação.
+
+### 1. Página inicial da Aplicação:
+
+![login-usuario](https://github.com/user-attachments/assets/8ae6d512-a82a-43a6-83ad-a10bdf4bc98c)
+
+### 2. Tela de Login da Aplicação:
+
+![login-usuario](https://github.com/user-attachments/assets/8ae6d512-a82a-43a6-83ad-a10bdf4bc98c)
+
+### 3. Tela de Cadastro de novos Usuário da Aplicação:
+
+![novo-usuario](https://github.com/user-attachments/assets/7a2740df-9b62-4cfe-8d7b-5e43918d46fc)
+
+### 4. Dashboard da Aplicação:
+
+![sistema-dashboard](https://github.com/user-attachments/assets/a1405638-a409-44e7-bda0-e47f556eadc3)
+
+### 5. Campeonatos:
+
+![sistema-dashboard](https://github.com/user-attachments/assets/a1405638-a409-44e7-bda0-e47f556eadc3)
+
+### 6. Jogos do Campeonato:
+
+![sistema-dashboard](https://github.com/user-attachments/assets/a1405638-a409-44e7-bda0-e47f556eadc3)
+
+### 7. Resultado do Campeonato(Jogos que aconteceram):
+
+![sistema-dashboard](https://github.com/user-attachments/assets/a1405638-a409-44e7-bda0-e47f556eadc3)
+
+### 8. Buscar Time Especifico:
+
+![sistema-dashboard](https://github.com/user-attachments/assets/a1405638-a409-44e7-bda0-e47f556eadc3)
+
+### 9. Jogos do Time Selecionado:
+
+![sistema-dashboard](https://github.com/user-attachments/assets/a1405638-a409-44e7-bda0-e47f556eadc3)
 
 ## ⚠️ Disclaimer
 
@@ -125,6 +167,8 @@ Abaixo, segue uma imagem com um aviso da API sobre essas limitações:
 ## 📷 Imagem - Aviso de limites da API
 ![Aviso da API](https://github.com/user-attachments/assets/7738998a-b5a0-41eb-a652-09646accd6a9)
 
+## Não conseguiu rodar o projeto? 
+<b>Se, após a execução de todas as etapas anteriores, você ainda não conseguir rodar este projeto, não se preocupe! Você ainda pode acessá-lo e testá-lo através do deploy de produção. Acesse o link deste projeto, que está rodando no AWS EC2: [Deploy do Projeto no EC2](https://tinyurl.com/desafio-futebol-app)</b>
 ---
 ### Referências
 

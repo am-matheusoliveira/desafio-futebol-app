@@ -128,7 +128,7 @@ Para ilustrar melhor o funcionamento do sistema, abaixo estão algumas telas da 
 
 ![02-IMG-LOGIN](https://github.com/user-attachments/assets/48df4a0b-7922-4402-bd56-c00f04025abd)
 
-### 3. Tela de Cadastro de novos Usuário da Aplicação:
+### 3. Tela de Cadastro de novos Usuários da Aplicação:
 
 ![03-IMG-NOVO-USUARIO](https://github.com/user-attachments/assets/880b9549-d116-4fb0-9a88-5ca004fa050c)
 
@@ -165,7 +165,7 @@ Para garantir o funcionamento do sistema e atender aos requisitos do desafio té
 Abaixo, segue uma imagem com um aviso da API sobre essas limitações:
 
 ## 📷 Imagem - Aviso de limites da API
-![Aviso da API](https://github.com/user-attachments/assets/7738998a-b5a0-41eb-a652-09646accd6a9)
+![erro-plano-gratuito-limite](https://github.com/user-attachments/assets/489a62a4-2d40-4c85-a9e3-e656792bccba)
 
 ## Não conseguiu rodar o projeto? 
 <b>Se, após a execução de todas as etapas anteriores, você ainda não conseguir rodar este projeto, não se preocupe! Você ainda pode acessá-lo e testá-lo através do deploy de produção. Acesse o link deste projeto, que está rodando no AWS EC2: [Deploy do Projeto no EC2](https://tinyurl.com/desafio-futebol-app)</b>
